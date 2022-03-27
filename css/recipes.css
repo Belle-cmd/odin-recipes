@@ -1,3 +1,8 @@
+body {
+    /* background-image: url(/img/paper.png);
+    background-repeat: cover; */
+}
+
 header h1 {
     text-align: center;
 }
@@ -9,5 +14,22 @@ header a img {
 
     /* adjust size */
     height: auto;
-    width: 60%;
+    width: 450px;
+}
+
+.ingredients {
+    position: absolute;
+    background-image: url(/img/stickyNote.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    top: 50%;
+    left: 80%;
+}
+
+.ingredients h2 {
+    font-size: 200%;
+}
+
+.ingredients ul {
+    font-size: 140%;
 }

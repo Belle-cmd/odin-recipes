@@ -7,6 +7,6 @@ li img {
     width: 150px;
 }
 
-/* li a {
-
-} */
+body {
+    background-image: url(/img/paper.jpg);
+}
