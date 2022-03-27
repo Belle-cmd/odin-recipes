@@ -1,3 +1,12 @@
 h1 {
     text-align: center;
 }
+
+li img {
+    height: auto;
+    width: 150px;
+}
+
+/* li a {
+
+} */
