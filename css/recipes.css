@@ -23,13 +23,17 @@ header a img {
     background-size: cover;
     background-repeat: no-repeat;
     top: 50%;
-    left: 80%;
+    left: 70%;
+    padding: 20px 30px 20px;
 }
 
 .ingredients h2 {
-    font-size: 200%;
+    padding-top: 20px;
+    padding-left: -5px;
+    font-size: 180%;
 }
 
 .ingredients ul {
-    font-size: 140%;
+    font-size: 120%;
+    padding-top: 20px;
 }
