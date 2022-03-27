@@ -1,5 +1,14 @@
+body {
+    position: relative;
+    background-image: url(/img/paper.png);
+    background-position: center;
+    background-size: 95% 97%;
+    background-repeat: no-repeat;
+}
+
 h1 {
-    text-align: center;
+    position: absolute;
+    font-size: 80px;
 }
 
 li img {
@@ -7,6 +16,10 @@ li img {
     width: 150px;
 }
 
-body {
-    background-image: url(/img/paper.jpg);
-}
+/* .paper {
+    position: absolute;
+    background-image: url(/img/paper2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px 30px 20px;
+} */
