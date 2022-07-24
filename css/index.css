@@ -1,20 +1,20 @@
 body {
+    font-family: 'Gloria Hallelujah', Courier, monospace;
     margin: 0; 
     padding: 0;
 
     /* setting up the background of the webpage */
     position: relative;
     background-image: url(/img/paper-753508_1920.jpg);
-    background-position: center;
+    background-position: center center;  /*  center the image both horizontally and vertically */
     background-repeat: no-repeat;
-
-    
+    background-size: cover;
 }
 
 li img {
     /* setting the size of each recipe icon */
     height: auto;
-    width: 150px;
+    width: 250px;
 }
 
 body {
@@ -32,17 +32,18 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin: 100px 50px;
+    margin: 100px;
+    margin-left: 0;
+    margin-right: 0;
 }
 .paper {
     display: flex;
     flex-direction: column;
     align-items: center;
-
     padding: 50px;
 }
 .paper a {
     padding: 20px;
     text-decoration: none;
-    
+    font-size: 20px;
 }
