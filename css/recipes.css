@@ -5,7 +5,7 @@ body {
 
      /* setting up the background of the webpage */
      position: relative;
-     background-image: url(/img/paper-753508_1920.jpg);
+     background-image: url(../img/paper-753508_1920.jpg);
      background-position: center center;  /*  center the image both horizontally and vertically */
      background-repeat: no-repeat;
      background-size: cover;
@@ -62,7 +62,7 @@ header a {
     padding-bottom: 50px;
 }
 .cooking-info ul {
-    background-image: url(img/note-304229_1280.png);
+    background-image: url(../img/note-304229_1280.png);
     background-position: center center;  /*  center the image both horizontally and vertically */
     background-repeat: no-repeat;
     background-size: cover;
@@ -88,7 +88,7 @@ header a {
     padding-bottom: 20px;
 }
 .ingredients {
-    background-image: url(img/paper.png);
+    background-image: url(../img/paper.png);
     background-repeat: no-repeat;
     background-size: cover;
     min-width: 370px;
