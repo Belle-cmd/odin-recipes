@@ -99,6 +99,16 @@ header a {
     text-align: center;
 }
 
+/* */
+.notes {
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 100px;
+}
+.notes li {
+    padding-bottom: 20px;
+}
+
 /* Styles for the nutrition facts */
 .nutrition {
     display: flex;
