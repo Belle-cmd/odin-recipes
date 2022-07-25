@@ -16,11 +16,16 @@ body {
 
 /* Styles for the header */
 .header {
+    background-color: rgb(208, 239, 241);
     text-align: center;
+    padding-bottom: 100px;
 }
 .header img {
     width: 500px;
     height: auto;
+}
+.header h1 {
+    padding-top: 50px;
 }
 .header p {
     margin-left: 100px;
@@ -32,6 +37,8 @@ body {
 .cooking-info {
     display: flex;
     justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
 }
 .cooking-info ul {
     background-image: url(/img/note-304229_1280.png);
