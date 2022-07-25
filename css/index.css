@@ -5,7 +5,7 @@ body {
 
     /* setting up the background of the webpage */
     position: relative;
-    background-image: url(./img/paper-753508_1920.jpg);
+    background-image: url(/odin-recipes/img/paper-753508_1920.jpg);
     background-position: center center;  /*  center the image both horizontally and vertically */
     background-repeat: no-repeat;
     background-size: cover;
