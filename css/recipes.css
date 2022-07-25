@@ -91,8 +91,8 @@ header a {
     background-image: url(/img/paper.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100%;
     min-width: 370px;
+    min-height: 370px;
     padding: 50px;
 }
 .ingredients h2 {
