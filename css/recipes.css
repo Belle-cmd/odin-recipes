@@ -29,7 +29,21 @@ body {
 }
 
 /* Styles for the cooking information */
-
+.cooking-info {
+    display: flex;
+    justify-content: center;
+}
+.cooking-info ul {
+    background-image: url(/img/note-304229_1280.png);
+    background-position: center center;  /*  center the image both horizontally and vertically */
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 70px;
+    font-size: 18px;
+}
+.cooking-info li {
+    padding-bottom: 8px;
+}
 
 /* Styles for arranging the ingredients and the cooking steps*/
 .info-container {
